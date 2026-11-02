@@ -1,6 +1,6 @@
 ---
-title: RXpizzeria
-emoji: 🐢
+title: Next Level Fitness
+emoji: 🏋
 colorFrom: yellow
 colorTo: yellow
 sdk: streamlit
